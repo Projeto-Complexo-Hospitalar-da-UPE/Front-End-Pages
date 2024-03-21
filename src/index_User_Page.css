@@ -1,0 +1,186 @@
+body {
+    margin:0;
+    padding:0;
+    height: 100vh;
+    background-color: #ffffff;
+  }
+  
+  .Center{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  
+  .Bar{
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 15%;
+    z-index: -1;
+    background-color:  rgb(22, 61, 113);
+    z-index: -1;
+  }
+  
+  
+  
+  
+  
+  .UsrInpt{
+    position: fixed;
+    transform: translate(-50%, 50%);
+    height: 4.4%;
+    width: 375px;
+    top: 55%;
+    left: 50%;
+    border-radius: 7px;
+    border: 0px;
+    text-align: center;
+  }
+  
+  .UsrLgn{
+    position: fixed;
+    transform: translate(-50%, 50%);
+    height: 4.4%;
+    width: 375px;
+    margin-top: 10px;
+    left: 50%;
+    top: 60%;
+    border-radius: 7px;
+    border: 0px;
+    text-align: center;
+  }
+  
+  .Consult_Button {
+    cursor: pointer;
+      position: fixed;
+      top: 38%;
+      left: 50%;
+      transform: translate(-50%, 50%);
+      width: 40%;
+      height: 5.2%;
+      border-radius: 10px;
+      background: radial-gradient(circle,  rgb(210, 210, 210),  rgb(189, 189, 189));
+      font-family: inherit;
+      color: #111111;
+      font-size: 100%;
+      border: none;}
+
+
+  .Regist_Button {
+    cursor: pointer;
+    position: fixed;
+    top: 44.5%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    width: 40%;
+    height: 5.2%;
+    border-radius: 10px;
+    background: radial-gradient(circle,  rgb(210, 210, 210),  rgb(189, 189, 189));
+    font-family: inherit;
+    color: #111111;
+    font-size: 100%;
+    border: none;}
+
+    .LogOff_Button{
+      cursor: pointer;
+      position: fixed;
+      top: 55%;
+      left: 50%;
+      transform: translate(-50%, 50%);
+      margin-top: 30px;
+      width: 40%;
+      height: 5.2%;
+      border-radius: 10px;
+      background-color: rgb(13, 105, 180);
+      font-family: inherit;
+      color: #f0f0f0;
+      font-size: 100%;
+      border: none;}
+  
+
+
+  .container_Bar_Icons{
+    position: fixed;
+    transform: translate(-50%, 50%);
+    top: -8%;
+    left: 135px;
+    width: 180%;
+    height: 15%;
+    margin-bottom: 30%;
+    border: 1px solid rgba(255, 4, 4, 0);}
+      .SCH_UP{
+        position: fixed;
+        transform: translate(-50%, 50%);
+        height: 65%;
+        top: -16%;
+        left: 49%;
+        border-radius: 10px;}
+      .UPE_logo_UP{
+        position: fixed;
+        transform: translate(-50%, 50%);
+        height: 65%;
+        top: -16%;
+        right: 0%;
+        margin-left: 1%;
+        border-radius: 10px;}
+        .container_Icon_Name{
+          position: fixed;
+          transform: translate(-50%, 50%);
+          top: 0%;
+          left: 74%;
+          width: 31%;
+          height: 45%;
+          border: 1px solid rgba(205, 255, 4, 0);}
+          .Doc_Icon{
+            position: fixed;
+            transform: translate(-50%, 50%);
+            height: 100%;
+            top: -30%;
+            margin-left: 10%;}
+          .User_Name{
+            position: fixed;
+            transform: translate(-50%, 50%);
+            top: -20%;
+            height: 55%;
+            margin-left: 45%;
+            color:rgb(245, 253, 255);
+            text-align:left;
+            font-size: 130%;
+            }
+  
+
+
+.container_Exam_Icons{
+  position: fixed;
+  transform: translate(-50%, 50%);
+  top: 33%;
+  left: 50%;
+  width: 50%;
+  height: 13%;
+  margin-bottom: 30%;
+  border: 1px solid rgba(255, 4, 4, 0);}
+  .Consult_Icon{
+    position: fixed;
+    transform: translate(-50%, 50%);
+    height: 35%;
+    top: -12%;
+    left: 96%;}
+  .Regist_Icon{
+    position: fixed;
+    transform: translate(-50%, 50%);
+    height: 31%;
+    top: 47%;
+    left: 96%;}
+
+
+
+
+
+
+
+  
+  
